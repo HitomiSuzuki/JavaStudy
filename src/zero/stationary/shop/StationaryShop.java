@@ -1,6 +1,6 @@
-package zeroToOne.StationaryShop2;
+package zero.stationary.shop;
 
-public class StationaryShop2 {
+public class StationaryShop {
 
     public static void main(String[] args) {
         Amount myCart = new Amount(0);

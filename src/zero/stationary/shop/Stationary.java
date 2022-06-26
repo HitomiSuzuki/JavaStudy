@@ -1,4 +1,4 @@
-package zeroToOne.StationaryShop2;
+package zero.stationary.shop;
 
 public class Stationary {
     private String name;
