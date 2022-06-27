@@ -1,4 +1,4 @@
-package guessCardGame.logic;
+package guess.card.game.logic;
 
 import java.util.Scanner;
 import java.util.InputMismatchException;

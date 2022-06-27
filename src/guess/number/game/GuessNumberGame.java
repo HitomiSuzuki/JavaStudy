@@ -1,6 +1,6 @@
-package guessNumberGame;
+package guess.number.game;
 
-import guessNumberGame.logic.GuessNumberGameLogic;
+import guess.number.game.logic.GuessNumberGameLogic;
 
 public class GuessNumberGame {
     public static void main(String[] args) {
