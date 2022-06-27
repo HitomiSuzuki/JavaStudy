@@ -3,7 +3,7 @@ package zeroToOne;
 import java.util.Random;
 import java.util.Scanner;
 
-public class NUmberProphet {
+public class NumberProphet {
     public static void main(String[] args) {
         final int RANGE_FOR_CORRECT = 7;
         Random rand = new Random();
